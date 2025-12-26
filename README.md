@@ -33,7 +33,7 @@ I enjoy projects that **combine theory with practical implementation**, allowing
 
 - [LinkedIn](https://www.linkedin.com/in/chibudom-jp-osele)  
 <!--- [Portfolio / Blog](https://yourwebsite.com)-->  
-- Email: your.email@example.com  
+- Email: cjposele@gmail.com
 
 ---
 
